@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intrepidbird&label=Profile%20views&color=0e75b6&style=flat" alt="intrepidbird" /> </p>
 
-- 🔭 I’m currently working on [IntrepidBot](https://github.com/intrepidbird/intrepidbot)
+- 🔭 I’m currently working on [Gauss](https://github.com/intrepidbird/gauss)
 
 - 🌱 I’m currently learning **Typescript, C++, and C#**
 
